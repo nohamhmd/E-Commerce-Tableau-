@@ -6,6 +6,7 @@ The dataset encompasses all transactions occurring between 01/12/2010 and 09/12/
 ## Analysis
 
 This project delves into various aspects of the e-commerce data to uncover valuable business insights.
+
 Dashboard Link: https://public.tableau.com/views/E-commerceStats2/E-commerceStats?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ![image](https://github.com/nohamhmd/E-Commerce-Tableau-/assets/156810723/575d5452-47e5-4c7a-940d-593982d3fbab)
