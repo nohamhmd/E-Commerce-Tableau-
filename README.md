@@ -5,34 +5,36 @@ The dataset encompasses all transactions occurring between 01/12/2010 and 09/12/
 
 ## Analysis
 
-This project delves into various aspects of the e-commerce data to uncover valuable business insights. Key areas of investigation include:
+This project delves into various aspects of the e-commerce data to uncover valuable business insights.
+Dashboard Link: https://public.tableau.com/views/E-commerceStats2/E-commerceStats?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+![image](https://github.com/nohamhmd/E-Commerce-Tableau-/assets/156810723/575d5452-47e5-4c7a-940d-593982d3fbab)
+
+## Key areas of investigation include:
 
 ### Customer Behavior:
-![image](https://github.com/nohamhmd/E-Commerce-Tableau-/assets/156810723/25467301-4df4-42ab-b388-7477c035524e)
 
-This dashboard explores customer demographics and spending habits.
+• Total number of customers
 
-Gender Breakdown: Pie chart of customer gender distribution.
+• Number of invoices per customer (average)
 
-Top Customer Cities: Top 10 cities with most customers.
-
-Customer Profiles: Breakdown of top customers and customer segments by education level (including top city for each).
-
-Customer Age vs. Revenue: Scatter plot showing relationship between customer age and revenue.
-
-Revenue by Age Group: Visualizes revenue distribution across age groups.
+• Average revenue per customer
 
 ### Sales Performance:
-![image](https://github.com/nohamhmd/E-Commerce-Tableau-/assets/156810723/88490663-fdf1-4299-9c0a-15ffbad7321e)
 
-This dashboard dives into sales performance.
+• Total revenue
 
-Net Sales: Overall sales figure (likely for the analyzed period).
+• Revenue distribution across months
 
-Top Products: Top 10 products by sales.
+• Top countries contributing to revenue and customer base
 
-Geographical Sales: Presents regional sales breakdown.
+### Market Segmentation:
 
-Average Order Value: Shows average amount spent per order.
+• Visualization of the market on a map (geographical distribution)
 
-Order Quantity Distribution: Shows distribution of orders by quantity.
+### Order Analysis:
+
+• Frequency of orders throughout the day
+
+### Invoice Distribution:
+
+• Comparison of the number of customers versus the number of invoices
